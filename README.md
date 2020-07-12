@@ -11,3 +11,10 @@
 [Undraw](https://undraw.co/)
 
 [The Noun Project](https://thenounproject.com/)
+
+
+#Online Tools
+
+[Miro](https://miro.com/)
+
+[Figma](https://www.figma.com/)
